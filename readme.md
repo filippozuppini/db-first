@@ -11,3 +11,4 @@
 - carburante VARCHAR (30), NOTNULL
 - venditore VARCHAR (30), NULL
 - targa VARCHAR (30), UNIQUE
+- prezzo DECIMAL(10), NULL
